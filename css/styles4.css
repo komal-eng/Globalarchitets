@@ -1,0 +1,144 @@
+.header {
+    height: 130px;
+    display: flex;
+    border-bottom: 1px solid #d5d5d5;
+    padding: 20px;
+    background-color: #fff;
+    flex-direction: column;
+  }
+  
+  .input {
+    width: 100vh;
+    border-radius: 5px;
+    border: 1px solid #d5d5d5;
+  }
+  
+  .avatar {
+    margin-left: 80px;
+    margin-right: 20px;
+    background: orange;
+    width: 41px;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 5px;
+    color: #fff;
+  }
+  .container {
+    height: 100vh;
+    background-color: #fff;
+  }
+  
+  .headerTitle {
+    margin: 2px;
+    font-weight: bold;
+    margin-left: 40px;
+  }
+  
+  .cnBody {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    border-bottom: 1px solid #d5d5d5;
+    padding-left: 178px;
+  }
+  
+  .cnTitle {
+    margin-left: 40px;
+  }
+  
+  .cnTitle:hover {
+    color: green;
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: rp;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .profilepicture {
+    width: 200px;
+    align-items: center;
+    height: 200px;
+    border: 1px solid;
+    margin-right: 50px;
+    text-align: center;
+    background-color: grey;
+  }
+  
+  .profileInfo {
+    color: #fff;
+    font-family: inherit;
+  }
+  
+  .profileEdit {
+    color: #ffff;
+    margin-left: 45%;
+  }
+  
+  .button {
+    height: 50px;
+    width: 145px;
+  }
+  
+  .smallPlaceholder {
+    border: 1px solid #d5d5d5;
+    margin-left: 10px;
+    margin-right: 30px;
+    border-radius: 3px;
+  }
+  
+  .collaborator {
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-right: 100px;
+    text-align: center;
+  }
+  
+  .collaboratorEdit {
+    margin-left: 40%;
+    border: 1px solid green;
+    width: 200px;
+    text-align: center;
+    border-radius: 3px;
+    color: green;
+  }
+  .profileCard {
+    display: flex;
+    flex-direction: column;
+    color: green;
+    justify-content: space-between;
+    height: 95px;
+    margin-left: 10px;
+  }
+  
+  .ff {
+    border: 1px solid #d5d5d5;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #8080802e;
+    color: gray;
+    text-align: center;
+  }
+  
+  .ffSite {
+    height: 60px;
+    margin-top: 10px;
+    border: 1px solid #d5d5d5;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #8080802e;
+    color: gray;
+    text-align: center;
+  }
+  
+  .info {
+    border: 1px solid gray;
+    margin-top: 10px;
+    padding: 5px;
+    width: 300px;
+    border-radius: 3px;
+  }
+  
